@@ -1,0 +1,10 @@
+[workspace]
+members = [
+    "projects/common_collections",
+    "projects/enums",
+    "projects/error_handling",
+    "projects/guessing_game",
+    "projects/ownership",
+    "projects/structs",
+]
+resolver = "2"
